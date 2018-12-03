@@ -2,8 +2,8 @@
 My class repository for BIMM 143 (Introduction to Bioinformatics) at UCSD.
 
 Lectures:
-- class08
-- class09
+- [class08](https://github.com/bioboot/bimm143_serina_f18/blob/master/class08/lab08.md)
+- [class09](https://github.com/bioboot/bimm143_serina_f18/blob/master/class09/class09.md)
 - class13
 - class14: Genome Informatics I
 - class15: Genome Informatics II
